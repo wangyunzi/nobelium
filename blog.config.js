@@ -40,8 +40,8 @@ const BLOG = {
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: 'nobelium', // The repository of store comments
-      owner: '',
-      admin: [],
+      owner: 'wangyunzi',
+      admin: [rykaoyan],
       clientID: 'c87f25689682f4c19631',
       clientSecret: 'eceab3b996f1d3162fedab873e71722d0eca7f95',
       distractionFreeMode: false
