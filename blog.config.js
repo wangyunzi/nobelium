@@ -43,7 +43,7 @@ const BLOG = {
       owner: 'wangyunzi',
       admin: ['wangyunzi'],
       clientID: 'c87f25689682f4c19631',
-      clientSecret: 'eceab3b996f1d3162fedab873e71722d0eca7f95',
+      clientSecret: 'a7b533734463f1a321a947afe95f44443aee9a9e',
       distractionFreeMode: false
     },
     utterancesConfig: {
