@@ -39,9 +39,9 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: 'utterances', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'wangyunzi/nobelium', // The repository of store comments
-      owner: '',
-      admin: [],
+      repo: 'nobelium', // The repository of store comments
+      owner: 'wangyunzi',
+      admin: ['wangyunzi'],
       clientID: 'c87f25689682f4c19631',
       clientSecret: 'eceab3b996f1d3162fedab873e71722d0eca7f95',
       distractionFreeMode: false
