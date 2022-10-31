@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: ''
+      repo: 'wangyunzi/nobelium'
     },
     cusdisConfig: {
       appId: '6efa2b76-50d6-4a36-a1b6-0d6305636738', // data-app-id
